@@ -1,6 +1,6 @@
 # ChangeCounter.java
 
-## Demonstrate understanding of: 
+### Demonstrate understanding of: 
 Variables, Constants, Calculations, Decisions
 
 You work at Bank Asgard as a software engineer. Many of the new employees do not know 
