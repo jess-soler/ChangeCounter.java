@@ -10,5 +10,4 @@ have been tasked with creating a program to help them until they acquire the ski
 Write a class that calculates and displays the conversion of an entered number of dollars 
 into currency denominations—20’s, 10’s, 5’s, and 1’s. 
 
-Use named constants 
-Use the if decision statement 
+Use named constants & Use the if decision statement 
